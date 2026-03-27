@@ -1,0 +1,1 @@
+The PTIN were implemented using the PyTorch framework and trained on a high-performance workstation equipped with an AMD Ryzen Threadripper PRO 5975WX CPU and an NVIDIA GeForce RTX 5090 GPU. During the training phase, we employed a learning rate of 1×10^(-4)and a batch size of 128. 
